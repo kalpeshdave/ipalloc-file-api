@@ -1,0 +1,8 @@
+--- &1 !ruby/object:Address
+ip_address: 1.5.4.5
+validation_context: 
+errors: !ruby/object:ActiveModel::Errors
+  base: *1
+  messages: {}
+  details: {}
+device: android
